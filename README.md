@@ -1,0 +1,1 @@
+In this project we built an E-commerce website that enables vendors to offer products and \\customers to buy them , we maintained the Database of the website through queries written in SQL , built the front end part using HTML and we linked between the front end and the back end using C\#.
